@@ -1,0 +1,12 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives & Temporary zip files
+*.zip
+*.tar.gz
+*.rar
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

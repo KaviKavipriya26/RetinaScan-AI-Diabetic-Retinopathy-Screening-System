@@ -1,0 +1,13 @@
+{
+  "test_accuracy": 0.8054545454545454,
+  "test_accuracy_percent": 80.54545454545455,
+  "test_loss": 0.5816004276275635,
+  "num_classes": 5,
+  "class_names": [
+    "Mild",
+    "Moderate",
+    "No_DR",
+    "Proliferate_DR",
+    "Severe"
+  ]
+}
